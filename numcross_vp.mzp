@@ -1,0 +1,22 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "numcross_vp.mzn",
+        "data/data_numcross_vp.dzn",
+        "data/data2_numcross_vp.dzn",
+        "data/data3_numcross_vp.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "data/data2_numcross_vp.dzn",
+        "data/data3_numcross_vp.dzn",
+        "data/data_numcross_vp.dzn",
+        "numcross_vp.mzn"
+    ],
+    "projectSolverConfigs": [
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.1.1",
+    "version": 105
+}
